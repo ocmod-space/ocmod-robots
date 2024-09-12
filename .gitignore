@@ -1,0 +1,6 @@
+_inc
+src
+zip
+*.code-workspace
+*.fclignore
+*.pwd
