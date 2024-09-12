@@ -12,7 +12,7 @@ Compatible with OpenCart 2.x-3.x versions.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Demo Store](https://demo.ocmod.space/a/admin/index.php?route=extension/module/robots).
+* [Demo Store](https://demo.ocmod.space/a).
 
 ## License
 * Licensed under the [MIT License](../LICENSE.txt).

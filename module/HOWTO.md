@@ -7,10 +7,8 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Installer → [Upload]: `robots.ocmod.zip`
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/robots → [Install]→ [Edit] → [Save]
 
 ## Uninstall
-* Extensions → Extensions → Modules → /ocmod.space/robots → [Uninstall]
 * Extensions → Installer → Install History → `robots.ocmod.zip` → [Uninstall]
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
@@ -20,4 +18,3 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Installer → [Upload]: `robots.ocmod.zip`
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/robots → [Install] → [Edit] → [Save]
